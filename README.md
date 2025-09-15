@@ -1,1 +1,1 @@
-# goldenmaple
+# How to use GoldenMaple
